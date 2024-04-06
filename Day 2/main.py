@@ -15,5 +15,5 @@ logic1 = (int(Bill) + (int(Tip) / 100))
 logic2 = round((logic1 / int(Persons)), 2)
 logic3 = "{:.2f}".format(logic2)
 
-#Output result
+#Output result 
 print(f"Each person should pay: ${logic3}")
