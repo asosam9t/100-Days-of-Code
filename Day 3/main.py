@@ -1,4 +1,4 @@
-#This program is created as a "Choose your Ownn Fortune" game ENJOY!!!
+#This program is created as a "Choose your Ownn Fortune" game ENJOY!!! 
 
 print('''
 *******************************************************************************
